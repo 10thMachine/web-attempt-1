@@ -1,1 +1,1 @@
-alert("This is a simple test to make sure it works!")
+// alert("This is a simple test to make sure it works!")
