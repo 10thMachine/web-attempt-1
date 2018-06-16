@@ -1,1 +1,8 @@
-alert("This is a simple test to make sure it works!")
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
